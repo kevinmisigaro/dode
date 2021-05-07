@@ -795,8 +795,8 @@ button.button-primary:focus,
 input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
-  background: #309a3f;
-  border-color: #309a3f;
+  background: #04FA1A;
+  border-color: #04FA1A;
 }
 
 button.full-width,
@@ -825,7 +825,7 @@ button.stroke,
 
 button.stroke:hover,
 .button.stroke:hover {
-  border: 0.3rem solid #39b54a;
+  border: 0.3rem solid #FC9C00;
   color: #39b54a;
 }
 
