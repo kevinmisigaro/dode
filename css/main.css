@@ -1160,7 +1160,7 @@ h1.intro-header::before {
   border: none;
   width: 97px;
   height: 50px;
-  background: url("../images/dode-logo.png") no-repeat center;
+  background: url("../images/Transparent.svg") no-repeat center;
   background-size: 97px 50px;
   font: 0/0 a;
   text-shadow: none;
@@ -2477,8 +2477,8 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
  * ------------------------------------------------------------------- */
 
 #download {
-  background: #39b54a;
-  color: #b2fabc;
+  background: #FC9C00;
+  color: white;
   padding-top: 12rem;
   padding-bottom: 12rem;
   text-align: center;
@@ -2497,7 +2497,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 #download .lead {
-  color: #b2fabc;
+  color: white;
   margin-top: 4.8rem;
 }
 
@@ -2617,7 +2617,7 @@ footer ul a:visited {
   border: none;
   width: 93px;
   height: 50px;
-  background: url("../images/dode-logo.png") no-repeat center;
+  background: url("../images/Transparent.svg") no-repeat center;
   background-size: 93px 50px;
   font: 0/0 a;
   text-shadow: none;
